@@ -29,8 +29,5 @@ public class WikiepediaHomepage {
 	public static String getUrl() {
 		return URL;
 	}
-	
-	
-	
 
 }
